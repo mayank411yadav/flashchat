@@ -1,0 +1,9 @@
+//
+//  Constant.swift
+//  Flash Chat iOS13
+//
+//  Created by Mayank Yadav on 27/06/22.
+//  Copyright © 2022 Angela Yu. All rights reserved.
+//
+
+import Foundation
